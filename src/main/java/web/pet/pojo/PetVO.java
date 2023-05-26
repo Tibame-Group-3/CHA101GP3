@@ -1,4 +1,4 @@
-package pet.pojo;
+package web.pet.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

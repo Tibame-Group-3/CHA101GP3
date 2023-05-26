@@ -1,4 +1,4 @@
-package member.pojo;
+package web.member.pojo;
 
 import java.util.Date;
 
