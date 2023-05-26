@@ -1,4 +1,4 @@
-package web.bonus.pojo;
+package web.client.pojo;
 
 import java.util.Date;
 
@@ -15,7 +15,7 @@ import lombok.Setter;
 @AllArgsConstructor
 
 
-public class BonusVO {
+public class Bonus {
 	private Integer bonusID;
 	private Integer memID;
 	private Integer bonus;

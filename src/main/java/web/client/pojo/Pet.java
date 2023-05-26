@@ -1,4 +1,4 @@
-package web.pet.pojo;
+package web.client.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -12,7 +12,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @AllArgsConstructor
 
-public class PetVO {
+public class Pet {
 
 	private Integer petID;
 	private Integer memID;

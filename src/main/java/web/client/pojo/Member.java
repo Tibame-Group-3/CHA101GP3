@@ -1,4 +1,4 @@
-package web.member.pojo;
+package web.client.pojo;
 
 import java.util.Date;
 
@@ -14,7 +14,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @AllArgsConstructor
 
-public class MemberVO {
+public class Member {
 	private Integer memID;
 	private String memName;
 	private String memAccount;
