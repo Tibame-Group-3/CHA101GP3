@@ -1,4 +1,4 @@
-package bonus.pojo;
+package web.bonus.pojo;
 
 import java.util.Date;
 
