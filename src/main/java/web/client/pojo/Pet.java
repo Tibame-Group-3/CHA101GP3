@@ -12,7 +12,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @AllArgsConstructor
 
-public class PetVO {
+public class Pet {
 
 	private Integer petID;
 	private Integer memID;

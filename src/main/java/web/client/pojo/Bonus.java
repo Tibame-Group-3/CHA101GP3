@@ -15,7 +15,7 @@ import lombok.Setter;
 @AllArgsConstructor
 
 
-public class BonusVO {
+public class Bonus {
 	private Integer bonusID;
 	private Integer memID;
 	private Integer bonus;
