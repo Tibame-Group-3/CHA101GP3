@@ -1,4 +1,4 @@
-package web.HotelOwner.pojo;
+package web.client.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -11,7 +11,7 @@ import lombok.Setter;
 @Getter
 @NoArgsConstructor
 @AllArgsConstructor
-public class HotelOwnerVO implements java.io.Serializable {
+public class HotelOwner implements java.io.Serializable {
 	private int hotelId;
 	private String hotelName;
 	private String hotelAddress;
